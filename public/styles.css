@@ -1,0 +1,5 @@
+@import 'normalize.css';
+@import '/styles/_global.css';
+@import '/styles/_header.css';
+@import '/styles/_note.css';
+@import '/styles/_footer.css';
