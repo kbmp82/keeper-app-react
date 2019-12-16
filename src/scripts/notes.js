@@ -1,9 +1,9 @@
-const notes = [
+let notes = [
     {
       key: 1,
-      title: "Delegation",
+      title: "Adding a note",
       content:
-        "Q. How many programmers does it take to change a light bulb? A. None – It’s a hardware problem"
+        "To add a new note write a title and some content for the note, then click on the '+' symbol"
     },
     {
       key: 2,

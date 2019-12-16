@@ -22,3 +22,13 @@ margin-top: 3em;
     white-space: pre-wrap;
     word-wrap: break-word;
 }
+
+.note__delete{
+    content: 'DELETE';
+    float: right;
+    padding:1rem;
+    margin-bottom: -1em;
+    color: orange;
+    font-size: .8rem;
+    font-weight: 600;
+}
